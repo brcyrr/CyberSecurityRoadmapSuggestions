@@ -9,3 +9,4 @@ The list includes roadmap suggestions for the following topics;
 - Cloud Pentesting Roadmap
 - Active Directory Pentesting Roadmap
 - IoT Hacking Roadmap
+- DevSecOps Roadmap
